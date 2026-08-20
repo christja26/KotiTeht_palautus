@@ -1,0 +1,6 @@
+luku_1 = int(input("Anna luku 1: "))
+luku_2 = int(input("Anna luku 2: "))
+luku_3 = int(input("Anna luku 3: "))
+print(f"summa on {luku_1 + luku_2 + luku_3}.")
+print(f"tulo on {luku_1 * luku_2 * luku_3}.")
+print(f"keskiarvo on {(luku_1 + luku_2 + luku_3) // 3}.")
