@@ -1,7 +1,7 @@
 import random
 arvattava = random.randint(1, 10)
 while True:
-    arvaus = int(input("arvaa luku välillä 1-10: "))
+    arvaus = int(input("arvaa luku välillä 2-10: "))
     if arvaus == arvattava:
         break
     else:
