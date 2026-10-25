@@ -28,11 +28,3 @@ for vastaus in kysely_vastaus:
         elif teksti == "heliport":
             heli_asemat += 1
 print(f"pienet asemat: {pienet_asemat}\nkeskikokoiset asemat: {keskikokoiset_asemat}\nsuuret asemat: {suuret_asemat}\nhelikopterikenttiä: {heli_asemat}")
-
-
-
-
-
-
-
-
